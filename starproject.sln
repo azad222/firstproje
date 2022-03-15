@@ -10,9 +10,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		tamasbama.html = tamasbama.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{06F895C6-4DAA-4860-B9DF-6AF34FF040A6}"
+	ProjectSection(SolutionItems) = preProject
+		js.js = js.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{06F895C6-4DAA-4860-B9DF-6AF34FF040A6} = {FB8D3828-228C-4252-9430-630E9A6C45AE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6581C833-350D-4896-813E-D164F8CA8B02}
